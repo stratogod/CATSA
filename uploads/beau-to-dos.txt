@@ -1,0 +1,19 @@
+Stuff for Steffans to do:
+
+- Printer Friendly pages
+- Make sure all pages are XHTML validated
+- Clean up code and style sheets
+- Anesthesiology scheduler program
+- Work on Dreamweaver templates
+- Secure document manager
+- Better photo gallery system
+- SEO
+- Google analytics cleanup
+- clean up inline styles
+
+
+
+
+
+Business
+- Site Map

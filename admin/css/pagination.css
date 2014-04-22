@@ -1,0 +1,41 @@
+ul.pagination{
+	margin:0px;
+	padding:0px;
+	height:100%;
+	overflow:hidden;
+	font:10px 'Tahoma';
+	list-style-type:none;
+	position: relative;
+   right: 15px;	
+   margin-bottom: 10px;
+}
+
+ul.pagination li.details{
+    padding:4px 7px 4px 7px;
+    font-size:10px;
+}
+
+ul.pagination li.dot{padding: 3px 0;}
+
+ul.pagination li{
+	float:left;
+	margin:0px;
+	padding:0px;
+	margin-left:5px;
+}
+
+ul.pagination li:first-child{
+	margin-left:0px;
+}
+
+ul.pagination li a{
+	color:black;
+	display:block;
+	text-decoration:none;
+	padding:4px 7px 4px 7px;
+}
+
+ul.pagination li a img{
+	border:none;
+}
+	

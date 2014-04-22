@@ -1,0 +1,23 @@
+Hey guys - 
+
+I got quite the update on CATSA, so bear with me here ;)
+
+
+http://catsa.missouri.edu/
+
+Right now I have 3 roles setup, including:
+- Student
+- Advisor
+- Admin
+
+For demo purposes, go ahead and login as an student using the following credentials:
+
+dbeard/passw0rd!
+
+You will then be directed to the actual web application.  Most of the tabs are pretty self-explanatory, but I will try to go into a bit of detail:
+
+Dash Board:
+- General overview of the progress
+
+Account
+Just general information we can collect about the student.  Right now I have just simple fields, but we can collect more.  There is also an 'Internal Notes' field that only shows up for admins and advisors... so they can leave private comments about the student.

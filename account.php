@@ -99,23 +99,7 @@ while ($data_set5b = mysql_fetch_array($result_Master))
       </table>
       <? } ?>
     </div>
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
+
           
           <br />
         </div>
@@ -127,7 +111,6 @@ while ($data_set5b = mysql_fetch_array($result_Master))
     </tr>
   </table>
   
-  <br /><br /><br /><br /><br /><br />
   <? include("inc/footer.php"); ?>
   </div>
   

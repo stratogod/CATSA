@@ -1,0 +1,17 @@
+a:link      { color: #59879a; text-decoration: underline; font-size: 12px; font-weight: bold;}
+a:hover     { color: #d9bb73; text-decoration: underline;  }
+a:active    { color: #59879a; text-decoration: underline; font-weight: bold;  }
+a:visited   { color: #59879a; text-decoration: underline; font-weight: bold; font-size: 12px; }
+
+
+h1 {
+color: #1f3c4a;
+font-size: 25px;
+font-family: Arial;
+}
+
+h2 {
+color: #1f3c4a;
+font-size: 19px;
+font-family: Arial;
+}

@@ -1,0 +1,27 @@
+[root@umhc-stgprodl ~]# yum update
+Loaded plugins: rhnplugin, security
+There was an error communicating with RHN.
+RHN support will be disabled.
+
+Error Message:
+    Service not enabled for system profile: "umhc-stgprodl.umh.edu"
+Error Class Code: 31
+Error Class Info:
+     This system does not have a valid entitlement for Red Hat Network.
+     Please visit https://rhn.redhat.com/rhn/systems/SystemEntitlements.do
+     or login at https://rhn.redhat.com, and from the "Your RHN" tab,
+     select "Subscription Management" to enable RHN service for this system.
+Explanation:
+    Your organization does not have enough Management entitlements to register this
+    system to Red Hat Network. Please notify your organization administrator of this error.
+    You should be able to register this system after your organization frees existing
+    or purchases additional entitlements. Additional entitlements may be purchased by your
+    organization administrator by logging into Red Hat Network and visiting
+    the 'Subscription Management' page in the 'Your RHN' section of RHN.
+
+    A common cause of this error code is due to having mistakenly setup an
+    Activation Key which is set as the universal default.  If an activation key is set
+    on the account as a universal default, you can disable this key and retry to avoid
+    requiring a Management entitlement.
+Setting up Update Process
+No Packages marked for Update
